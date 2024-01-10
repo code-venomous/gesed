@@ -20,7 +20,7 @@
   text-transform: capitalize;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   scroll-behavior: smooth;
-  color-scheme: system;
+  color-scheme: dark;
 }
 body{
   background-color: #eee;
